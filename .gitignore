@@ -1,1 +1,9 @@
+# Exclure le répertoire target
+/target/
+
+# Exclure le fichier .classpath
+.classpath
+
+# Exclure tous les fichiers .class
+*.class
 .project
